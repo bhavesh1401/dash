@@ -1,0 +1,14 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    width:42%;
+  }
+  
+  body {
+    background-color: black;
+  }
+  
+  .indiaMap {
+    padding-top: 10px;
+  }
+  
